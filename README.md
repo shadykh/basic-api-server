@@ -54,7 +54,7 @@ In your express server, create a route module for each data model that you’ve 
 
 #### **The lab tree**
 
-- ![Tree](https://raw.githubusercontent.com/shadykh/basic-express-server/main/src/assets/tree.PNG)
+- ![Tree](https://raw.githubusercontent.com/shadykh/basic-api-server/main/src/assets/tree.gif)
 
 - Implementation Notes
   - In your server.js, require() your router modules, and use() them
@@ -75,27 +75,27 @@ In your express server, create a route module for each data model that you’ve 
 - Github
   - For the repo ***basic-api-server*** clicks => [here](https://github.com/shadykh/basic-api-server).
   - Pull Requests:
-    - [https://github.com/shadykh/basic-express-server/pull/1](https://github.com/shadykh/basic-express-server/pull/1)
-    - [https://github.com/shadykh/basic-express-server/pull/2](https://github.com/shadykh/basic-express-server/pull/2)
+    - [https://github.com/shadykh/basic-api-server/pull/1](https://github.com/shadykh/basic-api-server/pull/1)
+    - [https://github.com/shadykh/basic-api-server/pull/2](https://github.com/shadykh/basic-api-server/pull/2)
   - Actions:
-    - [https://github.com/shadykh/basic-express-server/actions/runs/850088019](https://github.com/shadykh/basic-express-server/actions/runs/850088019)
-    - [https://github.com/shadykh/basic-express-server/actions/runs/850088157](https://github.com/shadykh/basic-express-server/actions/runs/850088157)
+    - [https://github.com/shadykh/basic-api-server/runs/2613483020?check_suite_focus=true](https://github.com/shadykh/basic-api-server/runs/2613483020?check_suite_focus=true)
+    - [https://github.com/shadykh/basic-api-server/runs/2613497329?check_suite_focus=true](https://github.com/shadykh/basic-api-server/runs/2613497329?check_suite_focus=true)
+    - [https://github.com/shadykh/basic-api-server/runs/2613498051?check_suite_focus=true](https://github.com/shadykh/basic-api-server/runs/2613498051?check_suite_focus=true)
   - Local Tests:
-    - ![Local Test Image](https://raw.githubusercontent.com/shadykh/basic-express-server/main/src/assets/tests.gif)
+    - ![Local Test Image](https://raw.githubusercontent.com/shadykh/basic-api-server/main/src/assets/server_test_js.gif)
   - GitHub Tests:
-    - ![github tests](https://raw.githubusercontent.com/shadykh/basic-express-server/main/src/assets/githubtests.gif)
+    - ![github tests](https://raw.githubusercontent.com/shadykh/basic-api-server/main/src/assets/githubtests.gif)
 
 
 - Heroku
-  - For the link of the ***deployment main branch***  clicks => [here](https://shady-basic-express-server.herokuapp.com/).
+  - For the link of the ***deployment main branch => /api/favorite/games <= route***  clicks => [here](https://shady-basic-api-server.herokuapp.com/api/favorite/games).
 
 
 - UML:
-  - ![Local Test Image](https://raw.githubusercontent.com/shadykh/basic-api-server/main/src/assets/uml.PNG)
+  - ![UML](https://raw.githubusercontent.com/shadykh/basic-api-server/main/src/assets/uml.PNG)
 
 
 - Tests:
-  - Test the method and path ➡️ [logger.test.js]
   - Test the routes and statues➡️ [server.test.js]
 
 
