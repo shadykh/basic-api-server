@@ -84,7 +84,7 @@ In your express server, create a route module for each data model that you’ve 
   - Local Tests:
     - ![Local Test Image](https://raw.githubusercontent.com/shadykh/basic-api-server/main/src/assets/server_test_js.gif)
   - GitHub Tests:
-    - ![github tests](https://raw.githubusercontent.com/shadykh/basic-api-server/main/src/assets/githubtests.gif)
+    - ![github tests](https://raw.githubusercontent.com/shadykh/basic-api-server/main/src/assets/githubtests.PNG)
 
 
 - Heroku
